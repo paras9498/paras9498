@@ -1,39 +1,64 @@
-# 🕸️ Hi, I'm Paras!
+# 👋 Hi, I'm Paras Chheda
 
-I specialize in **web scraping** using Python, with a deep understanding of how to extract structured data from a wide variety of websites, including those with dynamic content.
-
-## 🕸️ Web Scraping Expertise
-I have extensive experience in scraping both static and dynamic websites using tools like **BeautifulSoup**, **Scrapy**, and **Selenium**. My scraping capabilities include:
-- **Handling Pagination**: Extracting data from multi-page websites efficiently.
-- **Authentication Management**: Navigating login pages and session handling.
-- **Dynamic Content**: Scraping content from websites that load data via JavaScript using **Selenium** or APIs.
-- **Data Storage**: Structuring and storing the scraped data in **CSV**, **JSON**, or databases like **PostgreSQL** and **SQLite**.
-
-### 🛠️ Technologies & Tools I Use:
-- **Libraries**: BeautifulSoup, Scrapy, Selenium, Requests
-- **Data Processing**: Pandas, NumPy
-- **Proxies & Headers**: Handling IP rotation and custom headers to avoid blocks.
-- **Browser Automation**: Using Selenium for scraping JavaScript-heavy websites.
-- **API Scraping**: Working with APIs to collect data directly where possible.
-
-### 🚀 Use Cases:
-I’ve successfully tackled scraping challenges in fields such as:
-- **E-commerce**: Extracting product information, prices, and reviews.
-- **Job Listings**: Automating the collection of job postings and company data.
-- **Real Estate**: Collecting property data from real estate platforms.
-- **Research**: Gathering large datasets for research and analysis.
-
-## 🔍 Problem Solving in Web Scraping
-I’m adept at overcoming common challenges in web scraping, including:
-- **CAPTCHAs & Anti-Bot Protections**: Navigating complex security measures using tools like **Selenium** and IP rotation.
-- **Rate Limiting**: Implementing delays and proxy rotations to avoid getting blocked.
-- **Data Parsing & Cleaning**: Ensuring that the scraped data is clean and structured for easy analysis.
+**Python Developer | Web Scraping & Automation Specialist | Backend API Engineer**
 
 ---
 
-### 📫 Let's Connect!
-If you're looking for help extracting data from the web or automating data collection processes, feel free to explore my projects or reach out for collaboration. I'm always open to new challenges in web scraping!
+## 🔹 About Me
+
+I'm a Python developer with over 7 years of experience in building scalable web scrapers, automating complex workflows, and developing fast, reliable backend APIs.
+
+I help businesses extract high-quality web data, eliminate manual tasks, and run smoother operations through automation and backend solutions.
 
 ---
 
-> **"The web is a treasure trove of data, and I love digging deep to uncover valuable insights."**
+## 🧠 Skills
+
+- **Languages**: Python, JavaScript (basic)
+- **Frameworks**: FastAPI, Flask
+- **Web Scraping**: BeautifulSoup, Selenium, Scrapy, Requests
+- **Automation**: Task automation, browser automation, scheduling
+- **Backend**: REST APIs, FastAPI, async processing
+- **Tools**: Docker, Git, CI/CD, Proxies, 2Captcha, Linux
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 [LinkedIn Job Scraper](https://github.com/paras9498/linkedin-job-scraper)
+**Tech:** Python, Selenium, BeautifulSoup  
+**Summary:** Extracts job listings from LinkedIn with role, company, location, and filters. Handles login sessions and page scrolls.
+
+---
+
+### 💊 [1mg.com Product Scraper](https://github.com/paras9498/1mg_scraper)
+**Tech:** Python, Requests, BeautifulSoup  
+**Summary:** Scrapes product names, prices, and categories from 1mg.com’s medicine listings. Supports structured CSV export.
+
+---
+
+### 🎬 [IMDb Data Extractor](https://github.com/paras9498/imdb-data-extractor)
+**Tech:** Python, BeautifulSoup  
+**Summary:** Extracts movie/show details like title, rating, cast, and release year from IMDb pages. Useful for media research or database building.
+
+---
+
+## 💼 Work Experience
+
+**Python Developer**  
+**BinaryBits.co** | *March 2018 – Present*  
+- Built large-scale scraping systems with CAPTCHA handling and proxy rotation  
+- Developed REST APIs using FastAPI to support real-time data delivery  
+- Automated reporting and ETL processes for client dashboards
+
+---
+
+## 📫 Let’s Connect
+
+- **Email:** paraschheda2815@gmail.com  
+- **LinkedIn:** [linkedin.com/in/chheda-paras](https://linkedin.com/in/chheda-paras)  
+- **Location:** Jamnagar, Gujarat, India
+
+---
+
+> “Turning Web Data Into Business Gold – One Script at a Time.”
